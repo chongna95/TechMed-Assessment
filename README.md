@@ -20,6 +20,7 @@ Each customer segment has different purchasing behaviors and preferences. The GM
 ## 📈 KPI
 
 - Monthly Trend: Total Sales / Qty per mth / yrs
+- Min / Max Sales & Qty per yrs / group / customer
 - Top Customer-Group by total Sales & Qty (Pareto line)
 - Top 5 High-Spending Customers by each group
 - Top N SKUs contribution to Total Sales (Pareto line)
