@@ -19,6 +19,7 @@ Each customer segment has different purchasing behaviors and preferences. The GM
 
 ## 📁 Output File
 
+- Python file: `TechMed.ipynb`
 - CSV file saved as: `customer_data.csv` & `item_data.csv` 
 - Excel file saved as: `customer_data.xlsx` & `item_data.xlsx`
 - Excel file (2 worksheet in 1 Excel file) saved as: `combined_data.xlsx` 
