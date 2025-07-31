@@ -30,17 +30,39 @@ Each customer segment has different purchasing behaviors and preferences. The GM
 
 ## 📊 Analysis
 
-**Pareto**: **80% total sales** rely on **TOP 499** (out of 2,815) **SKUs** and **TOP 3** (out of 10) **Customer Group**
-- PH-CHAIN
-- CLINIC-SP
-- CLINIC-GP
+**Pareto Principle (80/20 rules)**: **80% total sales** rely on **TOP 499** (out of 2,815) **SKUs** and **TOP 3** (out of 10) **Customer Group**
+- `PH-CHAIN`
+- `CLINIC-SP`
+- `CLINIC-GP`
 
-Target on High-Spending Customers per Customer Group, Eg:
-- PH-CHAIN has ONLY 4 **loyalty** customer, but has the Top 1 total Sales and Top 1 total Qty.
+**Target on High-Spending Customers per Customer Group**, Eg:
+- `PH-CHAIN` has ONLY 4 **loyalty** customer, but has the Top 1 total Sales and Top 1 total Qty.
 - different **pricing strategy** given: promotions / discounts / bundle sales
+| Group     | SKUs focus                         | Pricing strategy                                 |
+|-----------|------------------------------------|--------------------------------------------------|
+| PH        | branded                            | offer assortment full-upsell combos              | 
+| CL        | antibiotics, painkillers           | focus on essentials                              | 
+| SP        | injectables                        | bundle by specialty (cardio / derm...)           | 
+| SPERMARKET| supplements, consumer health goods | push high-margin retail-friendly + low cost SKU  |
 
-Focus on Customers Group / customers / SKUs which has similar Total Sales, but has **Highest / Lowest Qty**.
-- Low QTY, High Sales: more profit margin per SKU ? expensive?
+**Focus on Customers Group / customers / SKUs performance ranking**, which has similar HIGH Total Sales, but has **Highest / Lowest Qty**.
+- Low QTY: more profit margin per SKU ? expensive?
+- High QTY: no profit? cheaper? 
+
+---
+
+## 🛠 Future Improvement
+
+- Predictive Modeling: Discounts / promotions / marketing campaigns / events time needed to understand the seasonality fluctuations
+- SKU category: for segment-specific assortment planning, link top SKUs with customer type to guide assortment by segment
+- SKU price & cost: calculate price elasticity / price sensitive analysis / gross margin analysis
+- Customer Purchase channel (online/direct sales/...): help with analysis purchasing behaviour
+- SKU Rationalization: highlight 0 or Negative sales/qty, flag for review / discontinuation
+
+
+
+
+
 
 ---
 
