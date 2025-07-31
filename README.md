@@ -6,6 +6,7 @@ You are a business analyst for a pharmaceutical wholesaler with a portfolio of *
 - Specialist Doctors
 - Pharmacies, and
 - Supermarkets
+
 Each customer segment has different purchasing behaviors and preferences. The GM wants to segment customers correctly to allow better service, price offering, and optimize product portfolio to increase revenue and profitability, focusing on the effectiveness of the product assortment for each customer segment.
 
 ---
