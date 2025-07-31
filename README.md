@@ -36,8 +36,9 @@ Each customer segment has different purchasing behaviors and preferences. The GM
 - `CLINIC-GP`
 
 
-**Target on High-Spending Customers per Customer Group**, Eg:
+**Target on High-Spending Customers per Customer Group / High-Selling SKUs** , Eg:
 - `PH-CHAIN` has ONLY 4 **loyalty** customer, but has the Top 1 total Sales and Top 1 total Qty.
+- `SUPERMARKET` has low qty low sales
 - different **pricing strategy** given: promotions / discounts / bundle sales
   
 | Group     | SKUs focus                         | Pricing strategy                                 |
