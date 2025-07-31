@@ -19,10 +19,9 @@ Each customer segment has different purchasing behaviors and preferences. The GM
 
 ## 📈 KPI
 
-- Top N SKUs contribution to Total Sales (Pareto line)
-- Top Customer-Group by total Sales & Qty 
-- Top 5 High-Spending Customers by each group
 - Monthly Trend: Total Sales / Qty per mth / yrs
+- Top Customer-Group by total Sales & Qty (Pareto line)
+- Top 5 High-Spending Customers by each group
 - Top N SKUs contribution to Total Sales (Pareto line)
 - Top 15 High-Selling SKUs
 
