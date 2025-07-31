@@ -38,12 +38,14 @@ Each customer segment has different purchasing behaviors and preferences. The GM
 **Target on High-Spending Customers per Customer Group**, Eg:
 - `PH-CHAIN` has ONLY 4 **loyalty** customer, but has the Top 1 total Sales and Top 1 total Qty.
 - different **pricing strategy** given: promotions / discounts / bundle sales
+  
 | Group     | SKUs focus                         | Pricing strategy                                 |
 |-----------|------------------------------------|--------------------------------------------------|
 | PH        | branded                            | offer assortment full-upsell combos              | 
 | CL        | antibiotics, painkillers           | focus on essentials                              | 
 | SP        | injectables                        | bundle by specialty (cardio / derm...)           | 
 | SPERMARKET| supplements, consumer health goods | push high-margin retail-friendly + low cost SKU  |
+
 
 **Focus on Customers Group / customers / SKUs performance ranking**, which has similar HIGH Total Sales, but has **Highest / Lowest Qty**.
 - Low QTY: more profit margin per SKU ? expensive?
