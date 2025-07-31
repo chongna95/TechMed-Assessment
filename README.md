@@ -12,7 +12,7 @@ Each customer segment has different purchasing behaviors and preferences. The GM
 ##  🧼 Objectives
 
 - Analyze the data provided and offer **insights** that can guide strategic decisions.
-- There is no further data available at this time, please carry out data analysis and highlight the **assumptions** you have to make to reach the conclusions.
+- Carry out data analysis and highlight the **assumptions** make to reach the conclusions.
 - And what other data would help to **strengthen the analytics in the future**.
 
 ---
