@@ -4,8 +4,9 @@
 
 ## 📁 Output File
 
-- CSV file saved as: `mudah_rental_data.csv`
-- CSV file saved as: `rental(without aggregation).csv` 
+- CSV file saved as: `customer_data.csv` & `item_data.csv` 
+- Excel file saved as: `customer_data.xlsx` & `item_data.xlsx`
+- Excel file (2 worksheet in 1 Excel file) saved as: `combined_data.xlsx` 
 - Stored in the same working directory  
 
 ---
