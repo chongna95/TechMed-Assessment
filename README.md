@@ -39,13 +39,8 @@ Target on High-Spending Customers per Customer Group, Eg:
 - PH-CHAIN has ONLY 4 **loyalty** customer, but has the Top 1 total Sales and Top 1 total Qty.
 - different **pricing strategy** given: promotions / discounts / bundle sales
 
-
-
-
-
-
-
-
+Focus on Customers Group / customers / SKUs which has similar Total Sales, but has **Highest / Lowest Qty**.
+- Low QTY, High Sales: more profit margin per SKU ? expensive?
 
 ---
 
