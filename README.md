@@ -28,6 +28,22 @@ Each customer segment has different purchasing behaviors and preferences. The GM
 
 ---
 
+## 📊 Analysis
+
+Pareto: 80% total sales rely on **TOP 3** (out of 10) **Customer Group**
+- PH-CHAIN
+- CLINIC-SP
+- CLINIC-GP
+
+And **TOP 499** (out of 2,815) **SKUs**
+
+
+
+
+
+
+---
+
 ## 📁 Output File
 
 - Python file: `TechMed.ipynb`
