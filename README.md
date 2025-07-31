@@ -17,6 +17,17 @@ Each customer segment has different purchasing behaviors and preferences. The GM
 
 ---
 
+## 📈 KPI
+
+- Top N SKUs contribution to Total Sales (Pareto line)
+- Top Customer-Group by total Sales & Qty 
+- Top 5 High-Spending Customers by each group
+- Monthly Trend: Total Sales / Qty per mth / yrs
+- Top N SKUs contribution to Total Sales (Pareto line)
+- Top 15 High-Selling SKUs
+
+---
+
 ## 📁 Output File
 
 - Python file: `TechMed.ipynb`
