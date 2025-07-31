@@ -1,5 +1,14 @@
 # TechMed Analysis Report 2023-2024
 
+---
+
+## 📁 Output File
+
+- CSV file saved as: `mudah_rental_data.csv`
+- CSV file saved as: `rental(without aggregation).csv` 
+- Stored in the same working directory  
+
+---
 
 ## 🔗 Tableau Dashboard
 
